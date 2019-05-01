@@ -1,6 +1,6 @@
 # Simulated PMB2 mobile robot
 
-Code to launch a simulated PMB2 mobile robot from PAL Robotics, 
+Code to launch a simulated PMB2 mobile robot from PAL Robotics, <img src="https://i.imgur.com/xa2uovp.png" width="270" align="right">  
 using ROS Melodic and Gazebo 9.
 
 The latest distribution officially supported by PAL Robotics is ROS Kinetic.  
